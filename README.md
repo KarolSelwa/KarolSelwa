@@ -6,15 +6,15 @@ I came across front-end development a few months ago, and since then it has beco
 - 🤔 I’m looking for help with JavaScript 
 
 Skills: 
--HTML, CSS(including responsive web design)/n
--Webpack + Babel/n
--Git/n
--JavaScript (JavaScript basics: (loops, functions, OOP), DOM elements, events, forms, ECMAScript 2015+ features)/n
+-HTML, CSS(including responsive web design)
+-Webpack + Babel
+-Git
+-JavaScript (JavaScript basics: (loops, functions, OOP), DOM elements, events, forms, ECMAScript 2015+ features)
 -JavaScript testing and React.js comming soon/n
 
 
 
-Examples of Work:/n
+Examples of Work:
 "https://github.com/KarolSelwa/Html-css-Web-project"
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karol-selwa-a8aab8232//)  
