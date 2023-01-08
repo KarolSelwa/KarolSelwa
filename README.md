@@ -14,8 +14,11 @@ Skills:<br>
 
 
 
-Examples of Work:
-"https://github.com/KarolSelwa/Html-css-Web-project"
+Examples of Work:<br>
+https://github.com/KarolSelwa/Html-css-Web-project<br>
+https://github.com/KarolSelwa/js-forms<br>
+https://github.com/KarolSelwa/ES6-events<br>
+https://github.com/KarolSelwa/Counter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karol-selwa-a8aab8232//)  
 
