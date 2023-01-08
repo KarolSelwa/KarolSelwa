@@ -5,12 +5,12 @@ I came across front-end development a few months ago, and since then it has beco
 - 🌱 I’m currently learning JavaScript, React 
 - 🤔 I’m looking for help with JavaScript 
 
-Skills: 
--HTML, CSS(including responsive web design)
--Webpack + Babel
--Git
--JavaScript (JavaScript basics: (loops, functions, OOP), DOM elements, events, forms, ECMAScript 2015+ features)
--JavaScript testing and React.js comming soon/n
+Skills:<br>
+-HTML, CSS(including responsive web design)<br>
+-Webpack + Babel<br>
+-Git<br>
+-JavaScript (loops, functions, OOP, DOM elements, events, forms, ECMAScript 2015+ features)<br>
+-JavaScript testing and React.js comming soon
 
 
 
