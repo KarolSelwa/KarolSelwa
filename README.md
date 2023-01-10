@@ -1,18 +1,19 @@
-### Hi there 👋, my name is Karol
-#### I am an aspiring front-end developer
-I came across front-end development a few months ago, and since then it has become my great passion. So far, I've gained a solid knowledge of HTML5, CSS3, and JavaScript.
+### Hi there 👋, my name is Karol.
+#### I am an aspiring front-end developer.
+I came across front-end development a few months ago, and it has become my great passion instantly. So far, I've gained a solid knowledge of HTML5, CSS3, and JavaScript.
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React.js
 - 🤔 I’m looking for commercial experience with JavaScript and React.js
 
 Skills:<br>
--HTML, CSS(including responsive web design)<br>
--Webpack + Babel<br>
--Git<br>
--JavaScript (loops, functions, OOP, DOM elements, events, forms, ECMAScript 2015+ features)<br>
--JavaScript testing and React.js comming soon
-
-
+-  HTML5, CSS3 (including responsive web design)<br>
+-  Webpack + Babel<br>
+-  Git<br>
+-  JavaScript (loops, functions, OOP, DOM elements, events, forms, ECMAScript 2015+ features)<br>
+-  JavaScript testing and React.js comming soon
+-  Figma
+-  Jira & Confluence
+-  Understanding of the basics of agile IT project management (Scrum, Kanban)
 
 Examples of Work:<br>
 https://github.com/KarolSelwa/Html-css-Web-project<br>
