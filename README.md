@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Karol
 #### I am an aspiring front-end developer
-I came across front-end development a few months ago, and since then it has become my great passion. I gained a solid knowledge of HTML5 and CSS3, and right now I’m focusing on learing JavaScript.
+I came across front-end development a few months ago, and since then it has become my great passion. So far, I've gained a solid knowledge of HTML5, CSS3, and JavaScript.
 
-- 🌱 I’m currently learning JavaScript, React 
-- 🤔 I’m looking for help with JavaScript 
+- 🌱 I’m currently learning React 
+- 🤔 I’m looking for commercial experience with JavaScript and React.js
 
 Skills:<br>
 -HTML, CSS(including responsive web design)<br>
